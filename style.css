@@ -12,12 +12,17 @@
    max-width: 75vw;
 }
 
-#number{
+#number, #numberr{
     box-shadow: none;
 }
 
-button:hover{
-    background-color: white;
+#resultt{
+    border: 1px solid rgb(90, 140, 123) !important;
+}
+
+
+.btn1{
+    background-color: rgb(90, 140, 123);
 }
 @media (max-width:490px) {
     .main{
